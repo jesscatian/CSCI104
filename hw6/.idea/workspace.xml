@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad82fe3a-3a5b-43d4-aea3-01a5faa8b328" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/hw6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hw6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/avlbst.h" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/avlbst.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/bst-test" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/bst-test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/bst-test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/bst-test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/bst.h" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/bst.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/3.10.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/check.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/check.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_runtime_tests.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/avl_tests.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLBST.ConstructionDestruction.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLBST.ConstructionDestruction.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLClear.Clear.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLClear.Clear.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.7Elements.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.7Elements.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.DoubleInsertLeft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.DoubleInsertLeft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.DoubleInsertRight.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.DoubleInsertRight.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.Duplicates.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.Duplicates.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZagLeft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZagLeft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZagRight.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZagRight.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZigLeft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZigLeft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZigRight.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.InsertZigZigRight.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.OneNode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.OneNode.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.Random3x1000ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.Random3x1000ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.Random50x30ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLInsert.Random50x30ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.EmptyTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.EmptyTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.LeftChildRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.LeftChildRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.NodeMismatch.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.NodeMismatch.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.Random50x30ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.Random50x30ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.RightChildRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.RightChildRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.SingleRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.SingleRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.TwoChildrenRemove_3Node.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.TwoChildrenRemove_3Node.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.TwoChildrenRemove_4Node.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRemove.TwoChildrenRemove_4Node.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.InsertAscending.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.InsertAscending.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.InsertDescending.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.InsertDescending.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.InsertRandom.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.InsertRandom.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.RemoveMax.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.RemoveMax.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.RemoveMin.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLRuntime.RemoveMin.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLStress.InsertRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLStress.InsertRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLStress.Remove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CMakeFiles/debug-AVLStress.Remove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/test_remove.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/avl_tests/test_remove.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_runtime_tests.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/bst_tests.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BST.ConstructionDestruction.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BST.ConstructionDestruction.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.3Nodes_Balanced.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.3Nodes_Balanced.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.3Nodes_Unbalanced.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.3Nodes_Unbalanced.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.EmptyTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.EmptyTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.OneNode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.OneNode.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.Random50x30ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.Random50x30ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.UnbalancedSubtree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTBalance.UnbalancedSubtree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTClear.Clear.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTClear.Clear.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTFind.InvalidFind.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTFind.InvalidFind.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.7Elements.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.7Elements.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.BasicRandom.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.BasicRandom.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.DoubleInsertLeft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.DoubleInsertLeft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.DoubleInsertRight.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.DoubleInsertRight.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.Duplicates.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.Duplicates.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZagLeft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZagLeft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZagRight.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZagRight.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZigLeft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZigLeft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZigRight.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.InsertZigZigRight.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.JustRoot.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.JustRoot.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.Random3x1000ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.Random3x1000ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.Random50x30ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTInsert.Random50x30ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.EmptyTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.EmptyTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.LeftChildRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.LeftChildRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.NodeMismatch.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.NodeMismatch.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.Random50x30ele.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.Random50x30ele.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.RightChildRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.RightChildRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.SingleRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.SingleRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.TwoChildrenRemove_3Node.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.TwoChildrenRemove_3Node.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.TwoChildrenRemove_4Node.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRemove.TwoChildrenRemove_4Node.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.FindNodeBalanced.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.FindNodeBalanced.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.GetSmallestNodeBalanced.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.GetSmallestNodeBalanced.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.InsertBalanced.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.InsertBalanced.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.IteratorBalanced.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.IteratorBalanced.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.RemoveBalancedMin.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.RemoveBalancedMin.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.RemoveBalancedRoot.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTRuntime.RemoveBalancedRoot.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTStress.InsertRemove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTStress.InsertRemove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTStress.Remove.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CMakeFiles/debug-BSTStress.Remove.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/bst_tests/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CMakeFiles/testing_utils.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/generated_headers/kwsys/Configure.hxx" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/generated_headers/kwsys/Configure.hxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.json" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/kwsys/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CMakeFiles/perf.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/avlbst/hw6_tests/testing_utils/libperf/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k6eL9lVm19LhbdYWovFhuRoFSS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1040" y="1699" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605503385337">
+      <screen x="587" y="1440" width="1440" height="900" />
+    </state>
+    <state x="1040" y="1699" key="#com.intellij.fileTypes.FileTypeChooser/587.1440.1440.900/0.0.2560.1440@587.1440.1440.900" timestamp="1605503385337" />
+    <state x="1040" y="1699" key="#com.intellij.fileTypes.FileTypeChooser/587.1440.1440.900/0.23.2560.1417@587.1440.1440.900" timestamp="1605304184545" />
+    <state x="229" y="59" width="1890" height="1381" key="dock-window-1" timestamp="1605477246586">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="73" y="23" width="1267" height="877" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1605205576641" />
+    <state x="716" y="1440" width="1063" height="900" key="dock-window-1/587.1440.1440.900/0.0.2560.1440@587.1440.1440.900" timestamp="1605302728293" />
+    <state x="716" y="1463" width="1063" height="877" key="dock-window-1/587.1440.1440.900/0.23.2560.1417@587.1440.1440.900" timestamp="1605303421486" />
+    <state x="229" y="59" width="1890" height="1381" key="dock-window-1/587.1463.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1605477246586" />
+    <state x="1029" y="1463" width="998" height="877" key="dock-window-1/587.1463.1440.877/0.23.2560.1417@587.1463.1440.877" timestamp="1605233683365" />
+    <state x="34" y="23" width="1245" height="877" key="dock-window-2" timestamp="1605216381158">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="34" y="23" width="1245" height="877" key="dock-window-2/0.23.1440.877@0.23.1440.877" timestamp="1605216381158" />
+    <state x="164" y="26" width="1442" height="990" key="dock-window-2/587.1440.1440.900/0.0.2560.1440@587.1440.1440.900" timestamp="1605211367038" />
+    <state x="34" y="46" width="1159" height="1191" key="dock-window-2/587.1440.1440.900/0.23.2560.1417@587.1440.1440.900" timestamp="1605207635635" />
+    <state x="0" y="23" width="1143" height="877" key="dock-window-3" timestamp="1605216381159">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" width="1143" height="877" key="dock-window-3/0.23.1440.877@0.23.1440.877" timestamp="1605216381159" />
+    <state x="1286" y="57" width="1143" height="1043" key="dock-window-3/587.1440.1440.900/0.0.2560.1440@587.1440.1440.900" timestamp="1605211367039" />
+    <state x="1032" y="57" width="1143" height="1043" key="dock-window-3/587.1440.1440.900/0.23.2560.1417@587.1440.1440.900" timestamp="1605207635636" />
+    <state x="972" y="1636" width="670" height="676" key="search.everywhere.popup" timestamp="1605199985796">
+      <screen x="587" y="1440" width="1440" height="900" />
+    </state>
+    <state x="972" y="1636" width="670" height="676" key="search.everywhere.popup/587.1440.1440.900/0.0.2560.1440@587.1440.1440.900" timestamp="1605199985796" />
+  </component>
+</project>

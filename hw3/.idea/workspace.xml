@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e179510-990a-4fae-ae26-1bd9c4f3e93c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/quicksort" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/quicksort" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/scrabble/human_player.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/scrabble/board.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/scrabble/scrabble.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1iVeqVtS7FvSR6Eu0uwMCvYJHp8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Makefile.Build">
+    <configuration name="Build" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+      <makefile filename="$PROJECT_DIR$/scrabble/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+      <makefile filename="$PROJECT_DIR$/scrabble/Makefile" target="" workingDirectory="" arguments="clean">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Makefile.Build" />
+      <item itemvalue="Makefile.Clean" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601997446181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/-264.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1601997446181" />
+    <state width="1357" height="327" key="GridCell.Tab.0.bottom" timestamp="1602030539676">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="73" key="GridCell.Tab.0.bottom/-264.-1057.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1602027024061" />
+    <state width="1357" height="327" key="GridCell.Tab.0.bottom/-264.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602030539676" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/-264.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1602028390497" />
+    <state width="1187" height="97" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602029467715" />
+    <state width="1357" height="327" key="GridCell.Tab.0.center" timestamp="1602030539676">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="73" key="GridCell.Tab.0.center/-264.-1057.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1602027024059" />
+    <state width="1357" height="327" key="GridCell.Tab.0.center/-264.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602030539676" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/-264.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1602028390496" />
+    <state width="1187" height="97" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602029467714" />
+    <state width="1357" height="327" key="GridCell.Tab.0.left" timestamp="1602030539675">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="73" key="GridCell.Tab.0.left/-264.-1057.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1602027024058" />
+    <state width="1357" height="327" key="GridCell.Tab.0.left/-264.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602030539675" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/-264.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1602028390495" />
+    <state width="1187" height="97" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602029467713" />
+    <state width="1357" height="327" key="GridCell.Tab.0.right" timestamp="1602030539676">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="73" key="GridCell.Tab.0.right/-264.-1057.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1602027024060" />
+    <state width="1357" height="327" key="GridCell.Tab.0.right/-264.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602030539676" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/-264.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1602028390496" />
+    <state width="1187" height="97" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602029467714" />
+  </component>
+</project>

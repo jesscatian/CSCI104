@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8335da92-8add-468e-8ffc-f2872af3d7d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/quicksort" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/quicksort/cmake-build-debug/quicksort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrabble/computer_player.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scrabble/computer_player.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrabble/computer_player.h" beforeDir="false" afterPath="$PROJECT_DIR$/scrabble/computer_player.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrabble/dictionary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scrabble/dictionary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrabble/scrabble" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrabble/tests/scrabble_test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrabble/tests/scrabble_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scrabble/tests/scrabble_test.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jRE3v3boZ2yl66ligiLRjr8q1t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scrabble" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="26" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604083500679">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="26" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604083500679" />
+    <state x="424" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603758321585">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603758321585" />
+  </component>
+</project>
